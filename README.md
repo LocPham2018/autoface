@@ -6,7 +6,9 @@ cd autoface
 export PYTHONPATH=./models/insightface/deploy/
 
 save db info in dbconfig.py
+
 in dbconfig.py:
+
     DBUSERNAME=db_username
     DBPASSWORD=db_password
     DBHOST=db_host
